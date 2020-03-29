@@ -4,7 +4,7 @@
 # PROGRAM NAME : KT_ping
 # COMPILER     : Python3.6.2 64x
 # DESCRIPTION  : Tcpping 및 ping 엔진
-# AUTHER       : Choijh
+# AUTHER       : Choi jisu
 # 프로그램 실행 인자 1로 jdbc_maria.properties 파일의 위치를 인자로 전달한다.
 
 import sql_query
